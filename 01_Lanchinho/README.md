@@ -1,12 +1,7 @@
 Lanchinho
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a
 quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
-Código Especificação Preço
-1 Cachorro quente R$ 3.00
-2 X-Salada R$ 2.50
-3 X-Bacon R$ 5.00
-4 Torrada simples R$ 4.50
-5 Refrigerante R$ 1.50
+![image](https://github.com/brendonn40/prova-junior/assets/61332850/af5ef685-d888-4429-9dde-0242f2a045bc)
 Entrada
 O arquivo de entrada contém dois valores inteiros correspondentes ao código e à
 quantidade de um item conforme tabela acima.
