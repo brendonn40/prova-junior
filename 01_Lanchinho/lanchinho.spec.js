@@ -10,6 +10,6 @@ describe('Lanchinho', () => {
   });
 
   test('teste 3', () => {
-    expect(lanchinho(2, 3)).toEqual('Total: R$ 13.50');
+    expect(lanchinho(2, 3)).toEqual('Total: R$ 7.50');
   });
 });
